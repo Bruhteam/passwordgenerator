@@ -6,4 +6,5 @@ Features:
 2. Show / Hide password button
 3. Custom Password Length
 4. No data collection
-5. Characters selection(Coming soon)
+5. Coded on Python
+6. Characters selection(Coming soon)
